@@ -7,7 +7,7 @@
 .icon-bar {
     width: 90px; /* Set a specific width */
     border-radius: 15px;
-    background-color: darkgrey; /* Dark-grey background */
+    background-color: #04AA6D; /* Dark-grey background */
     float: left;
   }
   
@@ -27,9 +27,11 @@
 
 h1{
   text-align: center;
+  color: white;
 }
 h2{
   text-align: center;
+  color: white;
 }
 
 .container{
@@ -41,12 +43,13 @@ h2{
   height: 50px;
   border: none;
   color: white;
-  background-color: darkgrey;
+  background-color: #04AA6D;
   border-radius: 15px;
   box-shadow: inset 0 0 0 0 darkgrey;
   transition: ease-out 0.4s;
   font-size:1.5rem;
   outline: none;
+  cursor: pointer;
 }
 
 .btn1:hover{
@@ -55,5 +58,5 @@ h2{
 }
 
 body{
-      background-color: lightgray; /*Site background color*/
+      background-color: darkgrey /*Site background color*/
   }

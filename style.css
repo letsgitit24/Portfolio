@@ -7,7 +7,7 @@
 .icon-bar {
     width: 90px; /* Set a specific width */
     border-radius: 15px;
-    background-color: #04AA6D; /* White background */
+    background-color: #0491aa; /* White background */
     float: left;
   }
   
@@ -22,7 +22,7 @@
   
   .icon-bar a:hover {
     background-color: white; /* Add a hover color */
-    color: #04AA6D; /*Icon changes color on hover*/ 
+    color: #0491aa; /*Icon changes color on hover*/ 
   }  
 
 h1{
@@ -43,7 +43,7 @@ h2{
   height: 50px;
   border: none;
   color: white;
-  background-color: #04AA6D;
+  background-color: #0491aa;
   border-radius: 15px;
   box-shadow: inset 0 0 0 0 darkgrey;
   transition: ease-out 0.4s;
@@ -54,7 +54,7 @@ h2{
 
 .btn1:hover{
   box-shadow: inset 300px 0 0 0 white;
-  color: #04AA6D;
+  color: #0491aa;
 }
 
 body{
